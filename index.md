@@ -6,4 +6,4 @@ I am a student at The University of Queensland and this is my second year studyi
 
 ## Post
 ###April 17,
-[link to First Post]([https://www.fast.ai](https://github.com/Simon9971/Simon9971.github.io/blob/master/_posts/2024-04-17-first_post.md)). 
+check my post here: [link to First Post](https://github.com/Simon9971/Simon9971.github.io/blob/master/_posts/2024-04-17-first_post.md). 
