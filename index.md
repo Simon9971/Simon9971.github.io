@@ -5,5 +5,5 @@ I am a student at The University of Queensland and this is my second year studyi
 <img src="images/self.png" alt="Self Image" width="200">
 
 ## Post
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+###April 17,
+[link to First Post]([https://www.fast.ai](https://github.com/Simon9971/Simon9971.github.io/blob/master/_posts/2024-04-17-first_post.md)). 
